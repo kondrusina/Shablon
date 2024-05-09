@@ -46,7 +46,6 @@
 .searchInput__item {
     border: none;
     outline: none;
-
 }
 
 .user__name {
@@ -64,7 +63,6 @@
     color: #121920;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-
 }
 
 .main__title {
@@ -92,12 +90,9 @@
     margin-bottom: 1.5%;
 }
 
-
-
 .content__boxImg:last-child {
     margin-right: 0%;
 }
-
 
 @media screen and (max-width: 820px) {
 
